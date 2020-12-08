@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter Starter!')
+          title: Text('Flutter Starter.')
         ),
       ),
       debugShowCheckedModeBanner: false
